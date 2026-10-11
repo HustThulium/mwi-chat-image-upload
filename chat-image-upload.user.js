@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         银河奶牛放置 - 聊天图床
 // @namespace    mwi-plugins
-// @author       HustThulium
+// @author       Thulium
 // @version      0.1.5
 // @description  在游戏内开关 Imgloc 上传面板，方便复制图片链接到聊天。
 // @homepageURL  https://github.com/HustThulium/mwi-chat-image-upload

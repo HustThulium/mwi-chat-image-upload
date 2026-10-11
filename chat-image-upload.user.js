@@ -2,7 +2,9 @@
 // @name         银河奶牛放置 - 聊天图床
 // @namespace    mwi-plugins
 // @author       Thulium
-// @version      0.1.5
+// @version      0.1.6
+// @license      MIT
+// @icon         data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2264%22%20height%3D%2264%22%20viewBox%3D%220%200%2064%2064%22%3E%3Crect%20width%3D%2264%22%20height%3D%2264%22%20rx%3D%2216%22%20fill%3D%22%23424d8e%22%2F%3E%3Cg%20fill%3D%22none%22%20stroke%3D%22%23fff%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%3Crect%20x%3D%2213%22%20y%3D%2213%22%20width%3D%2238%22%20height%3D%2238%22%20rx%3D%226%22%2F%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%223%22%2F%3E%3Cpath%20d%3D%22m13%2043%2011-11%209%209%208-13%2010%2015%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E
 // @description  在游戏内开关 Imgloc 上传面板，方便复制图片链接到聊天。
 // @homepageURL  https://github.com/HustThulium/mwi-chat-image-upload
 // @supportURL   https://github.com/HustThulium/mwi-chat-image-upload/issues
@@ -10,6 +12,10 @@
 // @downloadURL  https://raw.githubusercontent.com/HustThulium/mwi-chat-image-upload/main/chat-image-upload.user.js
 // @match        https://www.milkywayidle.com/game*
 // @match        https://milkywayidle.com/game*
+// @match        https://test.milkywayidle.com/game*
+// @match        https://www.milkywayidlecn.com/game*
+// @match        https://milkywayidlecn.com/game*
+// @match        https://test.milkywayidlecn.com/game*
 // @grant        none
 // @noframes
 // @run-at       document-idle
